@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# GAIH Student Repo - Mustafa Tomak
 ![](img/newlogo.png)
 
 **Course Date:** 05.04.2021 / 09.04.2021  
